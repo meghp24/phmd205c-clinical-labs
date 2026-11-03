@@ -1,0 +1,19 @@
+[deck]
+title       = "PHMD 205C: Clinical Lab Interpretation"
+summary     = "Atomic flashcards for UCI PHMD 205C (PY2 Molecular Basis of Health 3): interpreting clinical labs and dosing from them."
+description = """
+673 cards across 11 lectures of UCI PHMD 205C: lab techniques and test accuracy, CBC and coagulation,
+iron and vitamin labs, renal function and urinalysis, liver function tests, renal and hepatic dosing
+from the prescribing information, therapeutic drug monitoring, acid base and electrolytes, toxicology,
+diabetes and lipid labs, and bone and mineral metabolism.
+
+One fact per card, cloze for numbers and ranges, contrast cards for values that are easy to mix up,
+and case cards built from the lecture practice questions. Seven original diagrams are quizzed one
+hidden cell at a time. A few cards flag where a slide looked inconsistent; check those with your instructor.
+
+Written by a student as a study aid. It does not replace the lectures, the prescribing information, or clinical judgment.
+"""
+keywords    = ["pharmacy", "PharmD", "UCI", "PHMD 205C", "clinical labs", "lab interpretation", "acid base", "toxicology", "TDM"]
+license     = "CC-BY-SA-4.0"
+attribution = "Written by Megh Patel from PHMD 205C course lectures, in his own words. Diagrams are original."
+source_url  = "https://github.com/meghp24/phmd205c-clinical-labs/blob/main/CREDITS.md"
