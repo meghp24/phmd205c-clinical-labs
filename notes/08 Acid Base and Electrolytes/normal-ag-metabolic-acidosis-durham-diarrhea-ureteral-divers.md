@@ -6,7 +6,7 @@ tags  = ["phmd205c", "acid-base-electrolytes"]
 
 ## Text
 
-Normal AG metabolic acidosis (DURHAM): {{c1::D}}iarrhea, {{c2::U}}reteral diversion, {{c3::R}}enal tubular acidosis, {{c4::H}}yperalimentation, {{c5::A}}cetazolamide/Addison's, {{c6::M}}iscellaneous (amphotericin B)
+Normal AG metabolic acidosis (DURHAM): {{c1::Diarrhea}}, {{c2::Ureteral diversion}}, {{c3::Renal tubular acidosis}}, {{c4::Hyperalimentation}}, {{c5::Acetazolamide}}/{{c7::Addison's}}, {{c6::Miscellaneous}} (amphotericin B)
 
 ## Extra
 

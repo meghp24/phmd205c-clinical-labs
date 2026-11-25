@@ -14,6 +14,8 @@ About 6 L
 
 ## Extra
 
-TBW 42 L × (160/140 − 1).
+TBW = 0.6 × weight (men) or 0.5 × weight (women).
+
+Water deficit = TBW × [(Na / 140) − 1] = (0.6 × 70) × (160/140 − 1) = 42 × 0.143 ≈ 6 L.
 
 Source: PHMD 205C, Acid Base and Electrolyte Disorders.

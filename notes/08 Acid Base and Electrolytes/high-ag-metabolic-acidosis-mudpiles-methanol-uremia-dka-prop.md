@@ -6,7 +6,7 @@ tags  = ["phmd205c", "acid-base-electrolytes"]
 
 ## Text
 
-High AG metabolic acidosis (MUDPILES): {{c1::M}}ethanol, {{c2::U}}remia, {{c3::D}}KA, {{c4::P}}ropylene glycol, {{c5::I}}soniazid/iron, {{c6::L}}actic acidosis, {{c7::E}}thylene glycol, {{c8::S}}alicylates
+High AG metabolic acidosis (MUDPILES): {{c1::Methanol}}, {{c2::Uremia}}, {{c3::DKA}}, {{c4::Propylene glycol}}, {{c5::Isoniazid/iron}}, {{c6::Lactic acidosis}}, {{c7::Ethylene glycol}}, {{c8::Salicylates}}
 
 ## Extra
 
