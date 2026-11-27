@@ -6,7 +6,7 @@ tags  = ["phmd205c", "diabetes-lipids"]
 
 ## Front
 
-GLP-1 RA with HF and CKD benefit (lecture)?
+GLP-1 RA with HF and CKD benefit?
 
 ## Back
 

@@ -6,7 +6,7 @@ tags  = ["phmd205c", "bone-mineral"]
 
 ## Front
 
-Calcineurin inhibitor (transplant) that causes hypomagnesemia (lecture)?
+Calcineurin inhibitor (transplant) that causes hypomagnesemia?
 
 ## Back
 

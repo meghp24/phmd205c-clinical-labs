@@ -6,7 +6,7 @@ tags  = ["phmd205c", "diabetes-lipids"]
 
 ## Text
 
-Basal insulin titration: {{c1::1 to 4}} units (5 to 15%) every 3 to 7 days
+Basal insulin titration: {{c1::2 to 4}} units (10 to 20%) every 3 to 7 days
 
 ## Extra
 

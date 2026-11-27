@@ -6,7 +6,7 @@ tags  = ["phmd205c", "cbc-coag"]
 
 ## Text
 
-ANC = WBC × ({{c1::% segs + % bands}})
+ANC = WBC × ({{c1::% segs + % bands}}) / 100
 
 ## Extra
 

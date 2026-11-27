@@ -6,7 +6,7 @@ tags  = ["phmd205c", "diabetes-lipids"]
 
 ## Text
 
-SGLT2i with MACE benefit (lecture): {{c1::canagliflozin}}, {{c2::empagliflozin}}
+SGLT2i with MACE benefit: {{c1::canagliflozin}}, {{c2::empagliflozin}}
 
 ## Extra
 

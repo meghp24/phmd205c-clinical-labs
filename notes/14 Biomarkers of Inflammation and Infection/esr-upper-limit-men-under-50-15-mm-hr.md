@@ -6,10 +6,10 @@ tags  = ["phmd205c", "biomarkers-infection"]
 
 ## Text
 
-ESR upper limit, men under 50: < {{c1::15}} mm/hr
+The normal ESR upper limit rises with {{c1::age}} and is higher in {{c1::women}}.
 
 ## Extra
 
-Men over 50: < 20.
+So an ESR that is high for a young man can be normal for an older woman.
 
 Source: PHMD 205C, Biomarkers of Inflammation and Infection.

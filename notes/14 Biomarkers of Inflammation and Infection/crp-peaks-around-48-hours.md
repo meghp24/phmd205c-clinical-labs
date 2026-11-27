@@ -6,7 +6,7 @@ tags  = ["phmd205c", "biomarkers-infection"]
 
 ## Text
 
-CRP peaks around {{c1::48}} hours.
+CRP peaks at {{c1::36 to 72}} hours.
 
 ## Extra
 

@@ -6,7 +6,7 @@ tags  = ["phmd205c", "iron-vitamins"]
 
 ## Front
 
-Provider says "take an OTC vitamin and eat more leafy greens." Which vitamin?
+Dark leafy greens are a major dietary source of which vitamin (key warfarin interaction)?
 
 ## Back
 

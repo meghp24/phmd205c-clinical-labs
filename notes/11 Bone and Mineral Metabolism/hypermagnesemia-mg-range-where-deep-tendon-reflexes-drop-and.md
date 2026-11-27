@@ -6,14 +6,14 @@ tags  = ["phmd205c", "bone-mineral"]
 
 ## Front
 
-Hypermagnesemia: Mg range where deep tendon reflexes drop and BP falls?
+Hypermagnesemia: early exam finding that warns of toxicity?
 
 ## Back
 
-8.5 to 12 mg/dL
+Loss of deep tendon reflexes
 
 ## Extra
 
-6 to 8.5: bradycardia, flushing, drowsiness. > 12: flaccid paralysis, coma, asystole.
+Toxicity progresses from flushing and drowsiness to lost reflexes and hypotension, then paralysis and cardiac arrest. Check reflexes in patients on magnesium sulfate.
 
 Source: PHMD 205C, Bone and Mineral Metabolism Labs.

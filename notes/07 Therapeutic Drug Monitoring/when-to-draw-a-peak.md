@@ -6,11 +6,11 @@ tags  = ["phmd205c", "tdm"]
 
 ## Front
 
-When to draw a PEAK?
+Aminoglycoside PEAK: when to draw it?
 
 ## Back
 
-30 min to 1 h after the end of the infusion
+About 30 min after a 30 min infusion ends
 
 ## Extra
 

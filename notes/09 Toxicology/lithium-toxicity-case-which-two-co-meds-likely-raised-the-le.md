@@ -6,14 +6,14 @@ tags  = ["phmd205c", "toxicology"]
 
 ## Front
 
-Lithium toxicity case: which two co meds likely raised the level?
+Lithium: which two common drug classes raise levels by reducing renal clearance?
 
 ## Back
 
-Lisinopril (ACEi) and ibuprofen (NSAID)
+ACE inhibitors (e.g. lisinopril) and NSAIDs (e.g. ibuprofen)
 
 ## Extra
 
-Both reduce renal lithium clearance. Li 2.6, SCr 2.3. Dialysis may be needed even below 4 mEq/L based on neuro severity.
+Thiazides do it too. Dialysis may be needed even below 4 mEq/L when neurologic symptoms are severe.
 
 Source: PHMD 205C, Toxicology.

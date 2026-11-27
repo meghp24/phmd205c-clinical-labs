@@ -6,7 +6,7 @@ tags  = ["phmd205c", "diabetes-lipids"]
 
 ## Front
 
-ASCVD risk calculator named in the lecture?
+Current AHA calculator for estimating ASCVD risk?
 
 ## Back
 

@@ -10,6 +10,6 @@ Gentamicin (synergy, traditional dosing) peak goal: {{c1::3 to 4}}
 
 ## Extra
 
-Trough goal 1 to 2. The slide lists mcg/L; gentamicin levels are normally reported in mcg/mL.
+Trough goal 1 to 2 mcg/mL.
 
 Source: PHMD 205C, Therapeutic Drug Monitoring.

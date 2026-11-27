@@ -10,4 +10,6 @@ R value = ({{c1::ALT}} ÷ ULN) ÷ ({{c2::ALP}} ÷ ULN)
 
 ## Extra
 
+Use the ULN from the patient's own lab. AST is not part of the formula.
+
 Source: PHMD 205C, Liver Function Tests.

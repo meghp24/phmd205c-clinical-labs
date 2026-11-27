@@ -6,7 +6,7 @@ tags  = ["phmd205c", "biomarkers-infection"]
 
 ## Front
 
-In that case, why is ESR still 58 on day 14?
+MSSA osteomyelitis improving by day 14: CRP has normalized but ESR is still 58. Why?
 
 ## Back
 

@@ -6,7 +6,7 @@ tags  = ["phmd205c", "drug-induced-labs"]
 
 ## Text
 
-Most hepatotoxic drugs in this lecture: stop if AST/ALT > {{c1::3}} × ULN.
+Most hepatotoxic drugs: stop if AST/ALT > {{c1::3}} × ULN.
 
 ## Extra
 

@@ -6,7 +6,7 @@ tags  = ["phmd205c", "prescribing-info"]
 
 ## Front
 
-Antiseizure drug needing renal dose adjustment (pyrrolidine class)?
+Antiseizure drug cleared by the kidneys that needs dose adjustment by CrCl?
 
 ## Back
 

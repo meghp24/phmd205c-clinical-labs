@@ -6,7 +6,7 @@ tags  = ["phmd205c", "lab-techniques"]
 
 ## Text
 
-Exercise before a blood draw can raise lactate by up to {{c1::300%}}.
+Strenuous exercise before a blood draw falsely {{c1::raises::direction}} lactate.
 
 ## Extra
 

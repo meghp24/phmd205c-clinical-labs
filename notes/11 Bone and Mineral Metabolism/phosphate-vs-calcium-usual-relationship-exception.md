@@ -6,11 +6,11 @@ tags  = ["phmd205c", "bone-mineral"]
 
 ## Front
 
-Phosphate vs calcium: usual relationship (exception?)
+Calcium and phosphate: when do they move in opposite directions, and when together?
 
 ## Back
 
-Move in opposite directions, except in CKD
+Opposite when PTH drives the change; together when vitamin D drives it
 
 ## Extra
 

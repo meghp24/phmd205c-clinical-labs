@@ -6,7 +6,7 @@ tags  = ["phmd205c", "lab-techniques"]
 
 ## Text
 
-Sodium fluoride (gray top) is {{c1::antiglycolytic}}: it prevents glycolysis in the sample for {{c2::3 days}}.
+Sodium fluoride (gray top) is {{c1::antiglycolytic}}: it stops cells in the tube from consuming glucose.
 
 ## Extra
 

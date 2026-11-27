@@ -6,11 +6,11 @@ tags  = ["phmd205c", "drug-induced-labs"]
 
 ## Front
 
-Same vancomycin case: which home meds also raise SCr?
+Inpatient with vancomycin AKI takes Entresto and ibuprofen at home. Do these add to the SCr rise?
 
 ## Back
 
-Entresto and ibuprofen
+Yes: both lower glomerular filtration pressure, so hold them
 
 ## Extra
 
